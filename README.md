@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Brispy64 
+- 👀 I’m self-teaching myself to code in order to change career paths
+- 🌱 I’m currently learning Python and HTML/CSS
+- 💞️ I’m open to collaborate on anything!
+- 📫 Feel free to reach out to me!
